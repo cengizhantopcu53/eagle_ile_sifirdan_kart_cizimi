@@ -2,7 +2,6 @@
  
 https://linktr.ee/cengizhantopcu53
 
-
 Eagle ile Sıfırdan Kart Çizimi
 
 01 Giriş
@@ -10,5 +9,3 @@ Eagle ile Sıfırdan Kart Çizimi
 02 Eğitim Robotu
 
 03 Çizgi Sensörü
-
-01_giris/01_giris_board1.png
